@@ -7,7 +7,9 @@ ML implementation for "Machine Learning Assisted Massive MIMO Mobility Enhanceme
 - Worked with State Key Laboratory of Mobile Communication of China. The project aim to solves the limiting factors of massive MIMO downlink transmission performance and complexity in a mobile environment. The subject extends the algorithm application scenarios to Ultra-Massive MIMO under 6G in 2022.
 - Responsible for the mathematical derivation and Python program implementation of the precoding algorithm. 
 
-### 机器学习辅助大规模MIMO移动性增强下行预编码算法 2020年 - 2022年
+### Patent
 
-- 该项目作为移动通信国家重点实验室课题，旨在通过降低获取信道状态信息与预编码矩阵的复杂度，提高下行链路的用户和速率。
-- 本人在课题中负责预编码算法的数学推导以及神经网络算法的代码实现。
+One patent is related to this work: A Machine Learning Assisted Low Complexity Linear Precoding Algorithm Based on OFDM System, 2022 (ID: 202210519716.7, at China National Intellectual Property Administration)
+
+- The invention belongs to the technical field of massive MIMO communication.
+- The invention discloses a linear precoding method based on the OFDM system, which converts the channel into narrowband sub-channels. It then selects part of the sub-carriers in both time and frequency directions to insert pilots, and estimates the channel parameters of the remaining frequencies, thereby calculate all precoding matrices.
